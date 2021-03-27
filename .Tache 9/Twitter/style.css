@@ -1,0 +1,75 @@
+.row .second_col img{
+    margin-top: 6%;
+    margin-left: 70px;
+}
+
+.row .form-floating input{
+    width: 200px;
+    height: 65px;
+    margin-left: 85px;
+}
+label{
+    margin-left: 85px;
+}
+
+#floatingInput{
+    margin-top: 4%;
+}
+
+#floatingPassword{
+    margin-left: 40%;
+    margin-top: -8.5%;
+}
+
+.btn{
+    width: 100px;
+    height: 50px;
+    margin-left: 75%;
+    margin-top: -12%;
+}
+
+.btn:hover{
+    background: #00acee;
+}
+
+
+
+.buton3{
+    width: 100px;
+    height: 45px;
+    background: transparent;
+    border-radius: 20px;
+    border: none;
+    border: #00acee 1px solid;
+    color: #00acee;
+    font-family: "Chirp", "Verdana", "System";
+}
+
+.row .premier_col img{
+    width: 110%;
+}
+
+.connecte{
+    margin-left: 85px;
+    font-family: "Chirp", "Verdana", "System";
+}
+
+.buton1{
+    background: #00acee;
+    width: 300px;
+    height: 45px;
+    border-radius: 20px;
+    border: #00acee 1px solid;
+    color: white;
+
+}
+.buton2{
+    background: transparent;
+    width: 300px;
+    height: 45px;
+    border-radius: 20px;
+    border: #00acee 1px solid;
+    color: #00acee;
+
+}
+
